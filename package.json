@@ -1,0 +1,23 @@
+{
+  "name": "grid",
+  "version": "1.0.0",
+  "description": "Yet another SASS grid. But this one is mine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thorazine/grid.git"
+  },
+  "keywords": [
+    "Grid",
+    "SASS"
+  ],
+  "author": "Matthijs Openneer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thorazine/grid/issues"
+  },
+  "homepage": "https://github.com/Thorazine/grid#readme"
+}
