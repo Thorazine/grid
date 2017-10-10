@@ -1,5 +1,5 @@
 {
-  "name": "grid",
+  "name": "thorazine-grid",
   "version": "1.0.0",
   "description": "Yet another SASS grid. But this one is mine",
   "main": "index.js",
